@@ -1,0 +1,27 @@
+ h2{
+  color: aliceblue;
+  margin-left: 30%;
+ }
+ 
+ .card-text{
+   margin-left: 32%;
+ }
+ h3{
+   background-color: black;
+   color: aliceblue;
+   font-size: medium;
+    }
+footer{
+   margin-left: 0%;
+}
+h1{
+   color: aliceblue;
+   margin-left: 36%;
+}
+.carousel-item{
+   margin-left: 40%;
+   width: 20%;
+}
+p{
+   color: aliceblue;
+}
